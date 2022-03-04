@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "instawapi1", "instawapi1.csproj", "{2C17366C-D96D-4C4A-A016-34D158120F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C17366C-D96D-4C4A-A016-34D158120F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C17366C-D96D-4C4A-A016-34D158120F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C17366C-D96D-4C4A-A016-34D158120F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C17366C-D96D-4C4A-A016-34D158120F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29D36D5-FF34-422D-ADDB-94656BD24EF3}
+	EndGlobalSection
+EndGlobal
